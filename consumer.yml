@@ -15,4 +15,5 @@ eureka:
       defaultZone: http://${eureka.instance.hostname}:8086/eureka,http://${eureka.instance.hostname}:8087/eureka
 
       
-password: '{cipher}204f64c5e7ddd50aa3b1140d93b29720e4544c407b520bfca9a00bf7703ae491'
+# password: '{cipher}204f64c5e7ddd50aa3b1140d93b29720e4544c407b520bfca9a00bf7703ae491'
+mypassword: '{cipher}AQB+EGbt26x+9qnoovcZMjkuvmTSIa9ORNmshcpcR3jsIXPzEyRukobfAXkF1GjhFHcBTYt97vO4UYYvmH+m6CMs/H3LpXvGBLDBv2igxG+gx7TkkBrL01vF4MMxapfDxuhK6Ks8+famXzyFnV7MMssQPA3pvfbXk4TuGMNwBki9jmWVehXg28055Z+D9n66eEUDOYx5GTqeAF5AMYB6McgBvM6iNFj/9gpiUiXyGIdS77NFemn5aHd9jyOxrPf0WpXRJWjJGMohdd93nk5C/U83wvvEDEUZlKmeHm3dOIZMNz8Hw+9RhZ7+aDBPsOuhJb1DX/WnTxsUYIoVBeTcb56nPFMAeWwYKONJa461214DI6Mse0UAzYIBBBNf+dNY60Y='
