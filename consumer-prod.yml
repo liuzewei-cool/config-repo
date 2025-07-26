@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: consumer
+    name: consumer3.0
 
 eureka:
   instance:
